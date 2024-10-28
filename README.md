@@ -1,6 +1,6 @@
 # Tuition Rebranding Project Analysis
 
-This repository contains the analysis conducted for the Tuition platform rebranding project by Altwave Team A, as part of a collaborative effort sponsored by Flutterwave.
+This repository contains the analysis conducted for the Tuition platform project by Altwave Team A, as part of a collaborative effort sponsored by Flutterwave.
 
 ## Project Overview
 
