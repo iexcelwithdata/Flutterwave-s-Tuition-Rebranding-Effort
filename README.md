@@ -68,6 +68,9 @@ This rebranding project provided hands-on experience in survey design, data anal
 
 This repository includes:
 - Survey form template (for reference)
+## Survey Link
+[Participate in the Survey](https://docs.google.com/forms/d/1Ou0HHoYOJ9psSUIO303L0fw9Wm8HHB7jEnv5WgR8gec/prefill)
+
 - Survey Response (Data)
 - Looker Studio analysis dashboard screenshots
 - Final report on key findings and recommendations
