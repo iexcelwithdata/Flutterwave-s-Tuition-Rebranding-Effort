@@ -12,7 +12,6 @@ This project was conducted as part of **Altwave Team A’s collaborative initiat
 
 Our analysis uncovered that while *Tuition* effectively communicates payment facilitation, it struggles to convey broader educational services. Using data-driven insights from surveys, we evaluated **user perception, engagement likelihood, and brand alignment**, ultimately proposing new brand directions that strengthen **market positioning, engagement, and emotional resonance**.
 
-![Executive Summary](images/Executive%20Summary.png)
 
 **🏆 Business Impact:**
 - Increased potential user clarity by **42%**
@@ -28,8 +27,6 @@ While *Tuition* effectively captured the essence of **educational payments**, Fl
 However, initial market tests revealed **brand misalignment**: users primarily associated *Tuition* with “payment transactions” rather than “educational enablement.” This perception gap threatened user adoption and long-term product scalability.
 
 > The business needed clear, data-backed insights into how the market perceived *Tuition* and actionable recommendations for rebranding.
-
-![Business Problem Placeholder](https://via.placeholder.com/1000x400?text=Brand+Perception+Gap+Visualization)
 
 ---
 
@@ -72,14 +69,14 @@ However, initial market tests revealed **brand misalignment**: users primarily a
 ## 📊 Results & Business Recommendations
 
 ### 🔹 Dashboard Preview  
-![Tuition Dashboard](images/Tuition%20Dashboard.png)  
-**👉 [View Full Dashboard (PDF)](./Tuition%20Project%20Dashboard.pdf)**  
+![Tuition Dashboard](images/Dashboard%20Preview.png)  
+**👉 [View Full Dashboard (PDF)](./FLUTTERWAVE'S_TUITION_REBRANDING_NAME_DASHBOARD.pdf)**  
 
 ---
 
 ### 🔹 PowerPoint Report Preview  
-![Tuition Report Preview](images/Tuition%20Report.png)  
-**👉 [View Full Report (PPTX)](./Insights%20Report/Tuition%20Report.pptx)**  
+![Tuition Report Preview](Flutterwave.png)  
+**👉 [View Full Report (PPTX)](./TUITION%20REBRANDING%20PRESENTATION%20BY%20ALTWAVE%20TEAM%20A.pptx)**  
 
 ---
 
@@ -106,5 +103,5 @@ If given more time or resources, we would:
 
 ---
 
-## 📎 Repository Structure
+
 
