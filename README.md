@@ -69,13 +69,13 @@ However, initial market tests revealed **brand misalignment**: users primarily a
 ## 📊 Results & Business Recommendations
 
 ### 🔹 Dashboard Preview  
-![Tuition Dashboard](images/Dashboard%20Preview.png)  
-**👉 [View Full Dashboard (PDF)](./FLUTTERWAVE'S_TUITION_REBRANDING_NAME_DASHBOARD.pdf)**  
+![Tuition Dashboard](Images/Dashboard%20Preview.png)  
+**👉 [View Full Dashboard (Locker Studio)](./https://lookerstudio.google.com/s/tH6I2nXhryc)**
 
 ---
 
 ### 🔹 PowerPoint Report Preview  
-![Tuition Report Preview](Flutterwave.png)  
+![Tuition Report Preview](Images/Flutterwave.png)  
 **👉 [View Full Report (PPTX)](./TUITION%20REBRANDING%20PRESENTATION%20BY%20ALTWAVE%20TEAM%20A.pptx)**  
 
 ---
