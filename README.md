@@ -70,12 +70,12 @@ However, initial market tests revealed **brand misalignment**: users primarily a
 
 ### 🔹 Dashboard Preview  
 ![Tuition Dashboard](Images/Dashboard%20Preview.png)  
-**👉 [View Full Dashboard (Locker Studio)](./https://lookerstudio.google.com/s/tH6I2nXhryc)**
+**👉 [View Full Dashboard (Locker Studio)](https://lookerstudio.google.com/s/tH6I2nXhryc)**
 
 ---
 
 ### 🔹 PowerPoint Report Preview  
-![Tuition Report Preview](Images/Flutterwave.png)  
+![Tuition Report Preview](Images/Flutter.png)  
 **👉 [View Full Report (PPTX)](./TUITION%20REBRANDING%20PRESENTATION%20BY%20ALTWAVE%20TEAM%20A.pptx)**  
 
 ---
