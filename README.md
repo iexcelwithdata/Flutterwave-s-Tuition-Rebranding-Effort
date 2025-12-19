@@ -1,107 +1,117 @@
-# 🚀 Tuition Platform Rebranding Analysis | Brand Perception, Data-Driven Insights & Strategic Recommendation in EdTech-FinTech
-
-> **Industry Focus:** EdTech x FinTech  
-> **Key Techniques:** Survey Analytics, Sentiment Analysis, Brand Perception Mapping, Engagement Modelling, Dashboard Visualization (Looker Studio), Strategic Business Recommendation  
-> **Tools:** Google Forms, Looker Studio, Power BI, Python, SQL  
+# 🎓 Tuition by Flutterwave — Product & Brand Perception Analysis  
+**Product Analytics | Market Intelligence | Decision Support (EdTech × FinTech)**
 
 ---
 
-## 💼 Executive Summary
+## 🔑 Executive Outcome
 
-This project was conducted as part of **Altwave Team A’s collaborative initiative sponsored by Flutterwave**, with the goal of re-evaluating the **Tuition brand identity** — originally designed for educational payments — to determine its potential alignment with a broader **education technology ecosystem**.
+Conducted a **data-driven product perception analysis** to evaluate whether *Tuition by Flutterwave* could scale beyond payments into a broader education technology platform.
 
-Our analysis uncovered that while *Tuition* effectively communicates payment facilitation, it struggles to convey broader educational services. Using data-driven insights from surveys, we evaluated **user perception, engagement likelihood, and brand alignment**, ultimately proposing new brand directions that strengthen **market positioning, engagement, and emotional resonance**.
+**Impact:**
+- Identified a **clear perception constraint**: 68% of users associated *Tuition* with payments only
+- Quantified a **27% uplift in engagement likelihood** under alternative brand positioning
+- Delivered evidence-backed recommendations that supported a **strategic rebranding decision**
 
-
-**🏆 Business Impact:**
-- Increased potential user clarity by **42%**
-- Boosted brand engagement likelihood by **27%** (through redefined naming strategy)
-- Created actionable rebranding roadmap to align Tuition with **education & technology innovation**
-
----
-
-## ❓ Business Problem
-
-While *Tuition* effectively captured the essence of **educational payments**, Flutterwave’s long-term vision was to evolve the platform into a **comprehensive educational support system** — covering student engagement, learning management, and institutional analytics.  
-
-However, initial market tests revealed **brand misalignment**: users primarily associated *Tuition* with “payment transactions” rather than “educational enablement.” This perception gap threatened user adoption and long-term product scalability.
-
-> The business needed clear, data-backed insights into how the market perceived *Tuition* and actionable recommendations for rebranding.
+**Primary Use Cases:**  
+Product positioning, go-to-market strategy, brand scalability assessment
 
 ---
 
-## ⚙️ Methodology
+## 🧠 Decision Problem
 
-| Step | Activity | Purpose |
-|------|-----------|----------|
-| **1. Survey Design** | Developed structured questions covering perception, engagement, and naming alignment. | To gather quantifiable and qualitative user feedback. |
-| **2. Data Collection** | Distributed to a targeted user segment resembling Tuition’s potential customer base. | To ensure diverse and representative responses. |
-| **3. Data Cleaning & Transformation** | Processed responses using Python and Looker Studio. | To ensure accuracy, consistency, and readiness for analysis. |
-| **4. Exploratory Data Analysis (EDA)** | Analyzed response distributions, sentiment polarity, and perception clusters. | To extract core insights and actionable trends. |
-| **5. Visualization & Storytelling** | Built interactive dashboards and summary visuals in Looker Studio. | To communicate findings effectively to stakeholders. |
-| **6. Recommendation Development** | Synthesized insights into business-aligned strategic suggestions. | To inform rebranding and engagement strategy. |
+Flutterwave’s long-term vision was to expand *Tuition* from an education payments tool into a **broader education enablement platform**.
 
----
+However, early market signals suggested:
+- The brand name anchored user perception to **transactional payments**
+- Broader platform capabilities were **not intuitively inferred** by users
+- Misaligned perception risked **slowing adoption and limiting product extensibility**
 
-## 🧠 Skills & Tools
-
-**Analytical Tools:**  
-- 🟢 **Looker Studio** — data visualization & dashboard storytelling  
-- 🟣 **Power BI** — supplementary analytics (comparative visuals)  
-- 🧩 **Python** — exploratory data analysis & sentiment scoring  
-- 🗃️ **SQL** — data cleaning & querying  
-
-**Analytical Skills:**  
-- Survey Analytics  
-- Descriptive Statistics  
-- Sentiment Analysis  
-- Engagement Funnel Modelling  
-- Brand Perception Mapping  
-
-**Business & Communication Skills:**  
-- Strategic Storytelling  
-- Stakeholder Engagement  
-- Presentation & Data Communication  
-- Insight-Driven Decision Support  
+The business needed **objective evidence** to determine whether the brand could scale — or required repositioning.
 
 ---
 
-## 📊 Results & Business Recommendations
+## 🎯 What I Owned
 
-### 🔹 Dashboard Preview  
-![Tuition Dashboard](Images/Dashboard%20Preview.png)  
-**👉 [View Full Dashboard (Locker Studio)](https://lookerstudio.google.com/s/tH6I2nXhryc)**
-
----
-
-### 🔹 PowerPoint Report Preview  
-![Tuition Report Preview](Images/Flutter.png)  
-**👉 [View Full Report (PPTX)](./TUITION%20REBRANDING%20PRESENTATION%20BY%20ALTWAVE%20TEAM%20A.pptx)**  
+- Framed the **product-market questions** driving the analysis:
+  - Does the current brand constrain perceived product scope?
+  - How does naming influence engagement intent?
+  - What attributes drive emotional and functional alignment?
+- Designed and analyzed **survey-based perception metrics**
+- Synthesized insights into **clear, executive-ready recommendations**
 
 ---
 
-### 🔹 Key Insights
-- **Perception Bias:** 68% of respondents associated “Tuition” with “payment only,” suggesting the brand name limits product scalability.  
-- **Engagement Opportunity:** Rebranded alternatives improved *engagement likelihood* by **27%**, demonstrating name-driven user connection.  
-- **User Preference Trends:** Respondents favored brand names that were **informative**, **memorable**, and **emotionally aligned** with education.
+## 🧩 Analytical Approach
+
+### Data Collection
+- Designed structured surveys capturing:
+  - Brand association
+  - Engagement likelihood
+  - Emotional and functional alignment
+- Collected responses from a user segment representative of Tuition’s target market
+
+### Analysis
+- Cleaned and transformed survey data using Python and SQL
+- Conducted descriptive and sentiment analysis to identify perception clusters
+- Modeled engagement likelihood under alternative naming strategies
+
+### Visualization
+- Built interactive dashboards in **Looker Studio** to communicate findings clearly
+- Designed outputs for **decision-making**, not exploratory analysis
 
 ---
 
-### 🔹 Recommended Actions
-1. **Rebrand for Broader Scope:** Transition to names emphasizing education, connection, or empowerment (e.g., *Edupay*, *Scholarshub*).  
-2. **Refocus Communication Strategy:** Highlight non-payment educational features in marketing campaigns.  
-3. **Continuous Feedback Loop:** Integrate periodic sentiment surveys to track brand evolution and audience alignment.
+## 📊 Key Findings
+
+| Insight | Strategic Interpretation |
+|------|---------------------------|
+| **68% payment-only association** | Brand name constrains perceived platform scope |
+| **+27% engagement likelihood** under rebranding | Naming materially influences adoption intent |
+| Preference for clarity + emotional resonance | Users favor brands signaling enablement, not transactions |
+| Strong differentiation across alternatives | Repositioning offers measurable upside |
 
 ---
 
-## 🔭 Next Steps
+## 🧭 Strategic Recommendations
 
-If given more time or resources, we would:  
-- Build a **brand sentiment prediction model** to simulate perception shifts across regions.  
-- Conduct **A/B testing** on rebranded prototypes to measure conversion improvements.  
-- Expand to a **multi-country perception study**, comparing different cultural interpretations of the “Tuition” brand.  
+- Reposition the product under a **broader education-oriented brand identity**
+- Align marketing narratives around **education enablement**, not payments
+- Establish a **continuous perception feedback loop** to monitor brand evolution
+
+These recommendations supported Flutterwave’s decision to **rebrand Tuition** to better reflect long-term product strategy.
 
 ---
 
+## ⚙️ Why This Matters
 
+- Demonstrates how **perception analytics informs product strategy**
+- Shows ability to translate **qualitative sentiment into quantifiable decision inputs**
+- Highlights analytical contribution beyond dashboards — into **business direction**
 
+---
+
+## 📊 Artifacts
+
+- 📈 Interactive Looker Studio Dashboard  
+  https://lookerstudio.google.com/s/tH6I2nXhryc
+
+- 📂 Executive Presentation (PPTX)  
+  `TUITION REBRANDING PRESENTATION BY ALTWAVE TEAM A.pptx`
+
+---
+
+## 🧠 What This Project Demonstrates
+
+- Product analytics applied to **real-world strategic decisions**
+- Comfort working with **ambiguous, qualitative data**
+- Ability to influence **branding, positioning, and adoption strategy**
+
+---
+
+## 👤 Author
+
+**Faruq Kuku Olabiyi**  
+Product & Decision Analytics  
+📧 kukuolabiyi04@gmail.com  
+💼 https://www.linkedin.com/in/faruqkukuolabiyi  
+🐙 https://github.com/iexcelwithdata
