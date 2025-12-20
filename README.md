@@ -51,7 +51,7 @@ The business needed **objective evidence** to determine whether the brand could 
 - Collected responses from a user segment representative of Tuition’s target market
 
 ### Analysis
-- Cleaned and transformed survey data using Python and SQL
+- Cleaned and transformed survey data using Excel
 - Conducted descriptive and sentiment analysis to identify perception clusters
 - Modeled engagement likelihood under alternative naming strategies
 
